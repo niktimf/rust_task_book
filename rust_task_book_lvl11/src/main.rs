@@ -1,5 +1,8 @@
 
 
+/// Уровень 1.1 задачника Rust
+/// https://code.mu/ru/rust/tasker/stager/1/1/
+
 
 fn main() {
 
@@ -48,7 +51,6 @@ fn main() {
     // 7. Дано число, проверьте, что это число находится в диапазоне от 1 до 10.
     let num7: i16 = 5;
     let range = 1..=10;
-
     match range.contains(&num7) {
         true  => println!("{} is between 1 and 10", num7),
         false => println!("{} is not between 1 and 10", num7),
