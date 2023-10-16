@@ -3,6 +3,7 @@
 /// Уровень 1.7 задачника Rust
 /// https://code.mu/ru/rust/tasker/stager/1/7/
 
+
 fn main() {
 
 
